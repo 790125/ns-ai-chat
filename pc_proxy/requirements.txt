@@ -1,0 +1,5 @@
+# NS AI Chat — 依赖列表
+# 安装：pip install -r requirements.txt
+fastapi>=0.100.0
+httpx>=0.24.0
+uvicorn>=0.20.0
